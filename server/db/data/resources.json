@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "_t3c6zyrt4",
+    "title": "Dream From My Father (author Barack Obama)!",
+    "description": "The son of Black African father and a white American mother. President Obama recounts an emotional odyssey. He retraces the migration of his mother's family from Kansas to Hawaii, then to his childhood home in Indonesia. Much more !",
+    "link": "https://www.amazon.com/Dreams-My-Father-Story-Inheritance/dp/1400082773",
+    "type": ""
+  },
+  {
+    "_id": "_1m53nfm0s",
+    "title": "Learn React Hooks",
+    "description": " Build and refactor modern React.js applications using Hooks",
+    "link": "https://www.amazon.com/Learn-React-Hooks-refactor-applications-ebook/dp/B07YZ9V9WW/ref=sr_1_7?crid=21WMD4Q4I6B27&keywords=react+js&qid=1646318921&s=books&sprefix=react%2Cstripbooks-intl-ship%2C165&sr=1-7",
+    "type": ""
+  },
+  {
+    "_id": "_dxdhnil9d",
+    "title": "JavaScript",
+    "description": "JavaScript is the programming language of the web and is used by more software developers today than any other programming language",
+    "link": "https://www.amazon.com/JavaScript-Definitive-Most-Used-Programming-Language/dp/1491952024/ref=sr_1_1?crid=7TW6PJ94P4MQ&keywords=javascript+programming&qid=1646319019&s=books&sprefix=javascr%2Cstripbooks-intl-ship%2C187&sr=1-1",
+    "type": ""
+  },
+  {
+    "_id": "_p1tl32avq",
+    "title": "React for beginners!",
+    "description": "These videos cover all the important concept related to React JS! ",
+    "link": "https://www.youtube.com/results?search_query=react+from+beginning",
+    "type": "vedio"
+  },
+  {
+    "_id": "_rudj09ijh",
+    "title": " FreeCodeCamp",
+    "description": "Learn to code — for free! Build projects. && Earn certifications.",
+    "link": "https://www.freecodecamp.org/",
+    "type": "blog"
+  },
+  {
+    "_id": "_ztu4c3h77",
+    "title": "DEV Community",
+    "description": "DEV Community is a community of 814,122 amazing developers. We're a place where coders share, stay up-to-date and grow their careers.",
+    "link": "https://dev.to/",
+    "type": "blog"
+  }
+]
